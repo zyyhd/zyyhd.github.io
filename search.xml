@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>博客第一篇</title>
+    <url>/2024/06/24/%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title></title>
     <url>/2024/06/25/%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
+    <content><![CDATA[<hr>
 <p>title: 第一篇日记<br>date: 2024-06-25 11:24:35<br>tags: [1,2,3]<br>comments: true<br>layout: post<br>toc: true<br>tags: </p>
 <ul>
 <li>标签1</li>
 <li>标签2</li>
 </ul>
 ]]></content>
-  </entry>
-  <entry>
-    <title>博客第一篇</title>
-    <url>/2024/06/24/%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
   </entry>
 </search>
